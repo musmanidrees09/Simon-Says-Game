@@ -1,7 +1,5 @@
 # Simon Says Game
 
-Written by using HTML, CSS, and javaScript.
-
 # What is simon says game?
 
 Simon Says is a fun classic game that encourages active play and helps in exercising listening skills.
